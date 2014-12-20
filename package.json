@@ -1,0 +1,27 @@
+{
+  "name": "MAX4466",
+  "version": "1.0.0",
+  "description": "Microphone MAX4466 for Tessel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/MAX4466.git"
+  },
+  "keywords": [
+    "MAX4466",
+    "microphone",
+    "amplifier",
+    "tessel",
+    "sound",
+    "audio"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Frijol/MAX4466/issues"
+  },
+  "homepage": "https://github.com/Frijol/MAX4466"
+}
